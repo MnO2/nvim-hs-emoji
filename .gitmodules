@@ -1,0 +1,3 @@
+[submodule "nvim-hs"]
+	path = nvim-hs
+	url = git@github.com:neovimhaskell/nvim-hs.git
